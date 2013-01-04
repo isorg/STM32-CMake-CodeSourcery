@@ -10,10 +10,10 @@ This section describes the installation of the tools needed to build the example
 ## 1.1 - Sourcery CodeBench Lite
 *Sourcery CodeBench Lite* is a C/C++ toolchain able to produce binaries for the STM32 microcontroller.
 It can be downloaded from the [Menthor Graphics website][sourcery]: 
-1. Choose ARM/EABI Release
-2. Fill out the form to receive an email containing a link to the installer.
+- 1. Choose ARM/EABI Release
+- 2. Fill out the form to receive an email containing a link to the installer.
 At the time of writting, the recommanded version of the installer is 2011-09-69. 
-During the installation, add the PATH of the arm-eabi-xxx.exe to the environement variables.
+- 3.During the installation, add the PATH of the arm-eabi-xxx.exe to the environement variables.
 
 ## 1.2 - CMake
 CMake is a build system that simplify the managment of large/multiplatform/multilibraries/... projects.
